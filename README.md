@@ -17,8 +17,8 @@ You can also change the number of questions and their correct responses by chang
 
 ## Example - 1
 
-<img src='Screenshot (11).png' width=450 height=450>
+<img src='Screenshot (11).png' width=800 height=600>
 
 ## Example - 2
 
-<img src='Screenshot (12).png', width=450 height=450>
+<img src='Screenshot (12).png' width=800 height=600>
